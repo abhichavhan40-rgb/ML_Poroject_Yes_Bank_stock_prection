@@ -140,6 +140,6 @@ The project successfully analyzed historical stock price data and developed mach
 
 ## Author
 
-Jorawar Singh
+Abhishek Chavhan
 
 Data Science & Machine Learning Enthusiast
