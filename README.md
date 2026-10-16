@@ -1,1 +1,1 @@
-# ML_Poroject_Yes_Bank_stock_prection
+# ML_Project_Yes_Bank_stock_prediction
